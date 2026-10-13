@@ -1,64 +1,60 @@
 <div align="center">
 
-<img src="./github-banner.svg" alt="Abdelrahman Ehssan — Applied AI Engineer, building intelligent systems that act." width="100%" />
+<img src="./github-banner.svg" alt="Abdelrahman Ehssan — Applied AI Engineer, building AI that acts, not just answers." width="100%" />
 
-<br />
+### Applied AI Engineer
 
-**Applied AI Engineering Intern @ Cycls** · **AI Student @ Alexandria University**
+*I build AI that acts, not just answers — from RAG pipelines and agent workflows to reliable Python services.*
 
-*I build AI that acts, not just answers — connecting models to tools, APIs, and real software workflows.*
-
-<br />
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-b9fb69?style=for-the-badge&logo=vercel&logoColor=09110e)](https://abdelrahman-ehssan-website.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-afa5fa?style=for-the-badge&logo=adobeacrobatreader&logoColor=11111b)](./Abdelrahman_Ehssan_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ehssan/)
-[![GitHub](https://img.shields.io/badge/Public_Projects-Explore-171B21?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelrahmanEhssan?tab=repositories)
-
-<!-- After you deploy your website, add a Portfolio button here with its actual URL. -->
 
 </div>
 
-### What I work on
+## What I build
 
-- **Agentic AI systems:** LLM tool use, multi-step workflows, execution boundaries, state, and reliability.
-- **Backend & platform integrations:** Python, FastAPI, REST APIs, authorization flows, and robust error handling.
-- **Applied machine learning:** scikit-learn pipelines, data processing, model inference, and interactive applications.
+I design **agentic AI systems**, **retrieval-augmented applications**, and **backend services** that connect language models to real workflows. My focus is on useful products: state management, API/tool integrations, structured validation, permission boundaries, and recovery from failures.
 
-Currently contributing to AI-enabled product engineering at **[Cycls](https://github.com/Cycls)**. My industry work is described at a high level; private company source code remains private.
+- **LLMs and AI agents** — RAG, vector search, orchestration, tool use, and grounded responses.
+- **Backend engineering** — Python, FastAPI, PostgreSQL/pgvector, APIs and service integrations.
+- **Machine learning** — practical modeling, computer vision, evaluation, and data pipelines.
 
-### Featured: Lear_nova — adaptive AI learning
+## Featured project · LearNova
 
-**Graduation project · AI / ML & backend contributor · Team project**
+**Adaptive AI learning platform | Team graduation project | AI/backend contribution**
 
-Lear_nova is an AI-powered adaptive learning platform. My contributions focus on the **Python AI/backend service layer**, including retrieval-assisted learning, diagnostic assessment and scoring, tutor integrations, personalization, and analytics workflows. The wider project also includes a Flutter app and Supabase-backed data services.
+LearNova brings together retrieval-supported tutoring, assessment scoring, personalization, and learning analytics. My AI/backend contributions included curriculum ingestion and vector retrieval, diagnostic and challenge scoring services, and risk/analytics workflows.
 
-**Ownership note:** This was collaborative work. The public service repository is **my fork of a friend's repository**, containing the work I contributed; it is not presented as a solo-built version of the entire platform.
+- **4,542** curriculum chunks processed for retrieval; **90.0% Precision@3** reported in project evaluation.
+- Stack: `Python` · `FastAPI` · `Supabase` · `PostgreSQL/pgvector` · `Gemini` · `RAG`.
+- **Credit:** This was a team project. The repository below contains the Python service work I contributed; the full application was collaborative, and the scoring-service source is based on a friend's repository.
 
-[Explore my Lear_nova scoring service →](https://github.com/AbdelrahmanEhssan/learnova_scoring_service)
+[View my LearNova scoring-service work →](https://github.com/AbdelrahmanEhssan/learnova_scoring_service)
 
-### Selected projects
+## Selected engineering work
 
-| Project | What it demonstrates | Code / Demo |
-| :-- | :-- | :-- |
-| **Lear_nova — Adaptive Learning Platform** | Team EdTech graduation project; RAG-assisted learning, FastAPI scoring, AI tutor integrations and personalization (my AI/backend contributions in a fork) | [My scoring service](https://github.com/AbdelrahmanEhssan/learnova_scoring_service) |
-| **FindIt — Lost & Found Platform** | Full-stack FastAPI app, authenticated flows, PostgreSQL, Docker, cloud deployment structure | [Repository](https://github.com/AbdelrahmanEhssan/findit-lost-found-platform) |
-| **Student GPA Predictor** | ML workflow, scikit-learn regression with simulated data, Streamlit inference UI | [Repository](https://github.com/AbdelrahmanEhssan/gpa-predictor-streamlit) · [Live app](https://gpa-predictor-app.streamlit.app/) |
-| **Stock Market Dashboard** | Financial data ingestion, pandas transformations, stock comparisons and moving averages | [Repository](https://github.com/AbdelrahmanEhssan/stock-dashboard-streamlit) |
-| **Titanic Survivor Predictor** | Classification, decision-tree model and probability estimates in Streamlit | [Repository](https://github.com/AbdelrahmanEhssan/titanic-survivor-streamlit) |
+| Project | Engineering focus | Link |
+| :--- | :--- | :--- |
+| **LearNova** | Retrieval, adaptive learning, scoring, AI/backend systems | [Scoring service](https://github.com/AbdelrahmanEhssan/learnova_scoring_service) |
+| **Multi-Tenant Text-to-SQL & Document Chat** | LangGraph orchestration, validated SQL, multi-format RAG with citations | [Case study on my website](https://abdelrahman-ehssan-website.vercel.app/#text-to-sql) |
+| **FindIt** | FastAPI, auth, PostgreSQL, containerized application | [Repository](https://github.com/AbdelrahmanEhssan/findit-lost-found-platform) |
+| **GPA Predictor** | ML regression and Streamlit inference with simulated data | [Repository](https://github.com/AbdelrahmanEhssan/gpa-predictor-streamlit) · [Demo](https://gpa-predictor-app.streamlit.app/) |
+| **Stock Dashboard** | Financial data exploration and time-series analysis | [Repository](https://github.com/AbdelrahmanEhssan/stock-dashboard-streamlit) |
+| **Titanic Predictor** | Interpretable classification demo | [Repository](https://github.com/AbdelrahmanEhssan/titanic-survivor-streamlit) |
 
-### Toolbox
+> Selected AI engineering experience also includes private/non-public agent workflows. I describe their architecture and engineering trade-offs without publishing employer code.
 
-**AI / ML** &nbsp; `RAG` · `Embeddings` · `LLMs` · `AI agents` · `scikit-learn` · `pandas` · `NumPy` · `Streamlit`
+## Technology stack
 
-**Engineering** &nbsp; `Supabase` · `PostgreSQL` · `Python` · `FastAPI` · `REST APIs` · `pytest` · `Docker` · `Git`
+**AI engineering** · `LLMs` `RAG` `LangGraph` `LangChain` `Transformers` `Vector retrieval` `Agent orchestration`
 
-**Systems** &nbsp; `Tool calling` · `Structured outputs` · `Provider integrations` · `Stateful workflows`
+**Software & data** · `Python` `FastAPI` `SQL` `PostgreSQL` `pgvector` `Supabase` `Docker` `AWS`
 
-### How I approach engineering
+**Machine learning** · `PyTorch` `TensorFlow` `scikit-learn` `OpenCV` `pandas` `NumPy`
 
-> **Useful → Reliable → Understandable.** The model is just one part of the system; the interfaces, validation, failure modes, and user experience matter just as much.
+## Explore more
 
-### Let's connect
+**[Portfolio website](https://abdelrahman-ehssan-website.vercel.app/)** · **[Resume (PDF)](./Abdelrahman_Ehssan_Resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/abdelrahman-ehssan/)** · **[Email](mailto:abehssan@gmail.com)**
 
-📍 Alexandria, Egypt · 🌐 [LinkedIn](https://www.linkedin.com/in/abdelrahman-ehssan/) · 💻 [My repositories](https://github.com/AbdelrahmanEhssan?tab=repositories)
-
-<!-- Optional, once verified: a link to your portfolio, a CV PDF, or a public email address. -->
+<sub>Alexandria, Egypt · B.Sc. Computer Science, Alexandria University (2026)</sub>
